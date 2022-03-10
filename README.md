@@ -33,7 +33,6 @@ Some example codes and outputs are provided. You can find these in `this_repo/ex
 - This does not change the code's semantics
 - This assumes that the input C source code is valid
 - This can modify the source code format and eliminate some comments
-- **Don't use for obfuscation (it does not work effectively)**
 
 # Issues
 Currently, this does not support function-like macro. For example:
